@@ -7,6 +7,7 @@ As you can guess by the title, I am [[Dawid Wieczorek\|David]]. What is not that
 	- [[Computer Science\|Computer Science]]
 	- [[Math\|Math]]
 	- [[Linguistics\|Linguistics]]
+	- [[Finances\|Finances]]
 - **Hobby**
 	- [[Psychology\|Psychology]]
 	- [[Philosophy\|Philosophy]]
