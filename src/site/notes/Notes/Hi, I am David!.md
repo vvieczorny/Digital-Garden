@@ -6,7 +6,7 @@ As you can guess by the title, I am [[Dawid Wieczorek\|David]]. What is not that
 - **Main**
 	- [[Computer Science\|Computer Science]]
 	- [[Technology\|Technology]]
-	- [[Math\|Math]] and math related subjects
+	- [[Math\|Math]]
 	- [[Linguistics\|Linguistics]]
 	- [[Finances\|Finances]]
 - **Hobby**
