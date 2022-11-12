@@ -13,7 +13,7 @@ As you can guess by the title, I am [[Dawid Wieczorek\|David]]. What is not that
 	- [[Psychology\|Psychology]]
 	- [[Philosophy\|Philosophy]]
 	- [[Biology\|Biology]], [[Chemistry\|Chemistry]] and [[Health\|Health]]
-	- [[Astronomy\|Astronomy]]
+	- [[Astronomy\|Astronomy]], [[Physics\|Physics]]
 	- [[History\|History]]
 
 Those notes, are here, to help me think and learn in more efficient and fun way. I am using methodology called [[Evergreen Notes\|Evergreen Notes]] popularized by [[Andy Matuschak\|Andy Matuschak]] (more about this technique [here](https://notes.andymatuschak.org/Evergreen_notes)). 
