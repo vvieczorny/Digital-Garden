@@ -4,14 +4,14 @@
 
 As you can guess by the title, I am [[Dawid Wieczorek\|David]]. What is not that obvious, is fact that I was born in the [[Poland\|Poland]], in the year of 2005. Another fun fact is that, I like to learn things, and I can say, I'm interested in every topic, but I am especially keen on these ones:
 - **Main**
-	- [[Computer Science\|Computer Science]]
-	- [[Math\|Math]]
+	- [[Computer Science\|Computer Science]], [[Technology\|Technology]] and [[Engineering\|Engineering]]
+	- [[Math\|Math]] and math related subjects
 	- [[Linguistics\|Linguistics]]
 	- [[Finances\|Finances]]
 - **Hobby**
-	- [[Psychology\|Psychology]]
+	- [[Psychology\|Psychology]] and psychology sub-fields
 	- [[Philosophy\|Philosophy]]
-	- [[Biology\|Biology]] & [[Chemistry\|Chemistry]]
+	- [[Biology\|Biology]], [[Chemistry\|Chemistry]] and [[Health\|Health]]
 	- [[Astronomy\|Astronomy]]
 	- [[History\|History]]
 
