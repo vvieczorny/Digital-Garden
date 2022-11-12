@@ -3,14 +3,13 @@
 ---
 
 As you can guess by the title, I am [[Dawid Wieczorek\|David]]. What is not that obvious, is the fact. that I was born in the [[Poland\|Poland]], in the year of 2005. Another fun fact is that, I like to learn things, and I can say, I'm interested in every topic, but I am especially keen on these ones:
-- **Main**
+- **Deep Focus**
 	- [[High School\|High School]]
-	- [[Computer Science\|Computer Science]]
-	- [[Technology\|Technology]]
+	- [[Computer Science\|Computer Science]] & [[Technology\|Technology]]
 	- [[Math\|Math]]
+- **Shallow Focus**
 	- [[Linguistics\|Linguistics]]
 	- [[Finances\|Finances]]
-- **Hobby**
 	- [[Psychology\|Psychology]]
 	- [[Philosophy\|Philosophy]]
 	- [[Biology\|Biology]], [[Chemistry\|Chemistry]] and [[Health\|Health]]
