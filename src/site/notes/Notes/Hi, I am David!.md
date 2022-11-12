@@ -10,7 +10,7 @@ As you can guess by the title, I am [[Dawid Wieczorek\|David]]. What is not that
 	- [[Linguistics\|Linguistics]]
 	- [[Finances\|Finances]]
 - **Hobby**
-	- [[Psychology\|Psychology]] and psychology sub-fields
+	- [[Psychology\|Psychology]]
 	- [[Philosophy\|Philosophy]]
 	- [[Biology\|Biology]], [[Chemistry\|Chemistry]] and [[Health\|Health]]
 	- [[Astronomy\|Astronomy]]
