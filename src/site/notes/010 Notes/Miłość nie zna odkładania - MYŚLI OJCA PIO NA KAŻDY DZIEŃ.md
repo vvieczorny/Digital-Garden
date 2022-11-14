@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/010-notes/milosc-nie-zna-odkladania-mysli-ojca-pio-na-kazdy-dzien/"}
+---
+
+- *liczby oznaczają numery cytatów z książki*
+- 2  
+- 4  
+- 5
+- 6
+- 8  
+- 11  
+- 17  
+- Freud sprowadzał wszystko do seksu, Pio robi to samo z Bogiem
+- 21, 22  
+- 23  
+- 25  
+- 28  
+- 42
+- 45
+- 46
+- 48
+- 51
+- 52
+- 53
+- 54
+- 57
+- 58
+- 60
+- 62
+- 63
+- 64
+- 69
+- 70
+- 77
+- 78
+- 80
+- 81
+- Wiara i powierzenie siebie i swojego losu Bogu i przedstawianie siebie jako ofiary jako analogiczna sytuacja, być może substytucja dla rodziców.
+- Miłość nie zna odkładania. Zasadność tegoż cytatu.
+- 94
+- 95
+- 101
+- reszta o tym samym, ale w innych słowach
