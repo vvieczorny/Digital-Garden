@@ -5,4 +5,4 @@
 - 7:00 Differences between facts and racism
 - 9:00 Antisemitism tends to be a conspiracy theory
 - 13:00 The best way to fight evil
-- DOKONCZ #📥 
+- 
