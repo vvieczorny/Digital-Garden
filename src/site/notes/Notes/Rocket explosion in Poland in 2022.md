@@ -13,6 +13,6 @@ Ja jeszcze na świeżo wtedy, zdążyłem trochę na ten temat elaborować i wyt
 Szczerze, wydaje mi się, iż z jakiegoś powodu, chciałem myśleć, że to Rosyjskie, nawet, jeżeli byłoby to jednoznaczne z wojną, chciałem trochę zamieszania, aż wstyd się przyznać. Może z tyłu głowy miałem, że takie coś nie wywoła wojny, a tylko wzmocni USA[^4], ale nie wiem.
 
 [^1]: https://radio.lublin.pl/2022/11/wybuch-ciagnika-w-miejscowosci-przewodow-nie-zyja-dwie-osoby/
-[^2]: https://www.jpost.com/breaking-news/article-722483, https://www.jpost.com/breaking-news/article-722483, [[Mateusz Morawiecki\|Mateusz Morawiecki]]
+[^2]: https://www.jpost.com/breaking-news/article-722483, [[Mateusz Morawiecki\|Mateusz Morawiecki]]
 [^3]: https://apnews.com/article/russia-ukraine-war-zelenskyy-kherson-9202c032cf3a5c22761ee71b52ff9d52
 [^4]: [[USA\|USA]]
