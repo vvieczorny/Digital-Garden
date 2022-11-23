@@ -16,3 +16,4 @@
 - 1h 40m Na koniec nie tylko wojsko, ale i lud był po stronie Maximusa, syn cesarza nigdy nie dostał tego czego chciał
 	- Pięknie napisany film, fascynujący rewanż
 - Zgłęb więcej na temat stoicyzmu Maximusa oraz filozofii filmu wraz z wojną idei
+****
