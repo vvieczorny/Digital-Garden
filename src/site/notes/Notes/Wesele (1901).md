@@ -6,3 +6,6 @@
 - Scena 24 , Akt I - Postawa wobec chłopów
 - pg. 50 Fajny cytat od czepca
 - pg. 96 Muzyka nakierowuję nas na konkretny sposób myślenia i zamyka horyzonty 
+- Scena 10 pg. 102 - Dialog reprezentujący modernistyczne odrodzenie idei niepodległościowych chyba
+- Scena 12, 13 pg. 105 - Dialog reprezentujący podejście autora chyba do szlachty Polskiej
+- 
