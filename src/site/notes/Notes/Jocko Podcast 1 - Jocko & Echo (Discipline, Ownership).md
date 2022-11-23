@@ -3,6 +3,9 @@
 ---
 
 - 9:00 Waking up in different times and sleeping too much can affect your whole life
+	- How waking up in a different times can have impact on our whole life
+	- How sleeping to much can affect your whole life
+	- How your sleep quality can affect on your life
 - 10:25 Waking up early is mental exercise
 - 12:20 Creative people go to sleep later 
 	- Why is that
